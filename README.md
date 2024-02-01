@@ -36,7 +36,7 @@ Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi
 2. **Halaman Detail**<br>
    Syarat:
    - Terdapat informasi detail dari seorang user. Berikut beberapa informasi yang wajib ditampilkan pada halaman aplikasi. 
-       - TFoto Avatar
+       - Foto Avatar
        - Username
        - Nama
        - Jumlah Followers
