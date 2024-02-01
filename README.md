@@ -6,7 +6,7 @@ Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi
 <img src="https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental-Awal/assets/107051384/4b2942ad-3a00-4444-87f5-d766e0c8443e" alt="Screenshot_20231228_234319" width="250">   
 <img src="https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental-Awal/assets/107051384/5d52517f-7e2b-4c82-a386-2b634c0caf75" alt="Screenshot_20231228_234336" width="250">   
 
-## Petunjuk Instalasi
+## PETUNJUK INSTALASI
 1. Kloning Repositori::
    - Buka terminal atau command prompt di komputer lokal Anda.
    - Gunakan perintah **git clone** diikuti dengan URL yang telah Anda salin.
@@ -25,7 +25,7 @@ Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi
 8. Atau, Gunakan Emulator:<br>
    Jika Anda tidak memiliki perangkat fisik, Anda dapat menggunakan Emulator Android yang disediakan oleh Android Studio. Cukup buat perangkat virtual menggunakan AVD Manager dan jalankan aplikasi di emulator.
 
-## KRITERIA SUBMISSION AKHIR APLIKASI
+## KRITERIA SUBMISSION APLIKASI
 
 1. **Search User**<br>
    Syarat:
