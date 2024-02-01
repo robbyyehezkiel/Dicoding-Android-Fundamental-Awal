@@ -7,7 +7,7 @@ Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi
 <img src="https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental-Awal/assets/107051384/5d52517f-7e2b-4c82-a386-2b634c0caf75" alt="Screenshot_20231228_234336" width="250">   
 
 ## PETUNJUK INSTALASI
-1. Kloning Repositori::
+1. Kloning Repositori:
    - Buka terminal atau command prompt di komputer lokal Anda.
    - Gunakan perintah **git clone** diikuti dengan URL yang telah Anda salin.
      ```
