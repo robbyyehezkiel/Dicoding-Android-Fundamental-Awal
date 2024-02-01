@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Fundamental 1</string>
+
+    <!-- Main Menu -->
+    <string name="search">Search</string>
+
+    <!-- User Detail -->
+    <string name="toolbar_user_detail">User Detail</string>>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="num1">ABC</string>
+    <string name="num2">XYZ</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+</resources>
