@@ -17,15 +17,20 @@ class UserDetailViewModel(
     val userDetail: LiveData<User> = _userDetail
 
     fun fetchUserDetail(username: String) {
-        isLoading.value = true
+        setLoadingState(true)
         viewModelScope.launch(exceptionHandler) {
-            val userDetails = withContext(Dispatchers.IO) {
-                gitHubRepository.getUserDetail(username)
+            try {
+                val userDetails = withContext(Dispatchers.IO) {
+                    gitHubRepository.getUserDetail(username)
+                }
+                if (_userDetail.value != userDetails) {
+                    _userDetail.postValue(userDetails)
+                }
+            } catch (e: Exception) {
+                handleException(e)
+            } finally {
+                setLoadingState(false)
             }
-            _userDetail.value = userDetails
-        }.invokeOnCompletion {
-            isLoading.value = false
         }
     }
-
 }

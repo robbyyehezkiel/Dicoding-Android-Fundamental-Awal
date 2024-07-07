@@ -13,16 +13,16 @@ Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi
      ```
      git clone https://github.com/robbyyehezkiel/Dicoding-Android-Fundamental-Awal.git
      ```
-3. Buka Proyek di Android Studio:<br>
+2. Buka Proyek di Android Studio:<br>
    Buka Android Studio dan buka proyek yang telah Anda kloning.
-4. Bangun Proyek:<br>
+3. Bangun Proyek:<br>
    Setelah proyek dimuat, bangun proyek menggunakan opsi **build** di Android Studio.
-5. Hubungkan Perangkat Anda:<br>
+4. Hubungkan Perangkat Anda:<br>
    Hubungkan perangkat Android Anda ke komputer menggunakan kabel USB dan pastikan debugging USB diaktifkan pada perangkat Anda.
-7. Jalankan Aplikasi:
+5. Jalankan Aplikasi:
    - Pilih perangkat yang terhubung dari daftar perangkat yang tersedia di Android Studio.
    - Klik tombol **Run** untuk menginstal dan meluncurkan aplikasi di perangkat Anda.
-8. Atau, Gunakan Emulator:<br>
+6. Atau, Gunakan Emulator:<br>
    Jika Anda tidak memiliki perangkat fisik, Anda dapat menggunakan Emulator Android yang disediakan oleh Android Studio. Cukup buat perangkat virtual menggunakan AVD Manager dan jalankan aplikasi di emulator.
 
 ## KRITERIA SUBMISSION APLIKASI
@@ -54,13 +54,13 @@ Kelas ditujukan bagi developer yang ingin belajar fundamental pembuatan aplikasi
 ## PENILAIAN
 Submission Anda akan dinilai oleh reviewer dengan skala 1-5 berdasarkan dari parameter yang ada.<br>
 
-| Penilaian | Deskripsi |
-| --- | --- |
+| Penilaian                                                                                                                              | Deskripsi                                                                                                                                |
+|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | ![rating-default-1](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/a44691b2-f5ae-4d65-8cf1-35e883080b58) | Semua ketentuan terpenuhi, namun terdapat indikasi plagiat yaitu dengan menggunakan project orang lain dan hanya merubah kontennya saja. |
-| ![rating-default-2](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/2eb100d9-6af2-4612-9a3e-335b2afa400f) | Semua ketentuan terpenuhi, namun terdapat kekurangan pada tampilan aplikasi. |
-| ![rating-default-3](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/5b91432e-4b00-44cf-abb4-f1440904c94a) | Semua ketentuan wajib terpenuhi, namun tidak terdapat improvisasi atau persyaratan opsional yang dipenuhi. |
-| ![rating-default-4](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/66b77800-871a-4a5a-8a0f-ffeb86fdffa5) | Semua ketentuan terpenuhi dan menerapkan tiga saran di atas. |
-| ![rating-default-5](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/acbff36b-016d-4962-8aaa-20f36ec55b8b) | Semua ketentuan terpenuhi dan menerapkan semua saran di atas. |
+| ![rating-default-2](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/2eb100d9-6af2-4612-9a3e-335b2afa400f) | Semua ketentuan terpenuhi, namun terdapat kekurangan pada tampilan aplikasi.                                                             |
+| ![rating-default-3](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/5b91432e-4b00-44cf-abb4-f1440904c94a) | Semua ketentuan wajib terpenuhi, namun tidak terdapat improvisasi atau persyaratan opsional yang dipenuhi.                               |
+| ![rating-default-4](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/66b77800-871a-4a5a-8a0f-ffeb86fdffa5) | Semua ketentuan terpenuhi dan menerapkan tiga saran di atas.                                                                             |
+| ![rating-default-5](https://github.com/robbyyehezkiel/Dicoding-Android-Beginner/assets/107051384/acbff36b-016d-4962-8aaa-20f36ec55b8b) | Semua ketentuan terpenuhi dan menerapkan semua saran di atas.                                                                            |
 
 Anda dapat menerapkan beberapa saran di bawah ini untuk mendapatkan nilai tinggi, berikut sarannya:
 

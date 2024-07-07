@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.robbyyehezkiel.androidfundamental1.data.api.RetrofitService
 import com.robbyyehezkiel.androidfundamental1.data.repository.GitHubUserRepository
 import com.robbyyehezkiel.androidfundamental1.databinding.ActivityMainBinding
-import com.robbyyehezkiel.androidfundamental1.databinding.ActivityUserDetailBinding
 import com.robbyyehezkiel.androidfundamental1.ui.adapter.UserAdapter
 import com.robbyyehezkiel.androidfundamental1.ui.mvvm.factory.ViewModelFactory
 import com.robbyyehezkiel.androidfundamental1.ui.mvvm.viewmodel.MainViewModel
@@ -95,5 +94,4 @@ class MainActivity : AppCompatActivity() {
     private fun showErrorSnackBar(message: String) {
         SnackBarUtil.showSnackBar(binding.root, message)
     }
-
 }

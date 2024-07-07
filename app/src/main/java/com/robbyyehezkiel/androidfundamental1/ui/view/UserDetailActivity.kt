@@ -94,7 +94,6 @@ class UserDetailActivity : AppCompatActivity() {
         }.attach()
     }
 
-
     private fun showErrorSnackBar(message: String) {
         SnackBarUtil.showSnackBar(binding.root, message)
     }
